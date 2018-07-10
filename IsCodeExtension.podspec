@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
   s.name         = "IsCodeExtension"
   s.version      = "0.0.1"
   s.summary      = "IsCodeExtensions."
-  s.description  = "IsCodeExtension"
+  s.description  = "IsCodeExtensions for my project"
   s.homepage     = "http://www.forfur.com"
-  s.license      = "ISCode"
+  s.license      = "MIT"
   s.author             = { "supachai somrit" => "dy_zildjian@hotmail.com" }
   s.ios.deployment_target = "9.0"
   s.source       = { :git => "https://github.com/dysupachai/extension.git", :tag => s.version.to_s }
