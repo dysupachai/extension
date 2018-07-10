@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author             = { "supachai somrit" => "dy_zildjian@hotmail.com" }
   s.platform     = :ios
   s.platform     = :ios, "9.0"
-  s.source       = { :git => "https://github.com/dysupachai/extension.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/dysupachai/extension.git",  :branch => 'master', :tag => s.version.to_s }
 
   s.source_files  =  "IsCodeExtension/Source/**"
 end
