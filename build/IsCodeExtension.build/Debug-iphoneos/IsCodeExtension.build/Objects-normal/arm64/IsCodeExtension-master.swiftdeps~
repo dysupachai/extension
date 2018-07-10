@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "38fe3a80646a35cfc586e05f689fb1f9"
+build_time: [1531211952, 932134000]
+inputs:
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/DoubleExtension.swift": [1531209132, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/DateExtension.swift": [1531211841, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/ColorExtension.swift": [1531211905, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/DateFormatterExtension.swift": [1531209186, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/LabelExtension.swift": [1531209037, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/StringExtension.swift": [1531210762, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/UIViewExtension.swift": [1531209101, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/ButtonExtension.swift": !dirty [9223372036, 854775807]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/IsCodeExtension.swift": [1531210893, 0]
+  "/Users/iscode/Desktop/IsCode Dev/IsCodeCore/IsCodeExtension/IsCodeExtension/IntExtension.swift": [1531211870, 0]
