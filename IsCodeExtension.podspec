@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "IsCodeExtension"
-  s.version      = "0.0.1"
+  s.version      = "0.0.4"
   s.summary      = "IsCodeExtensions."
   s.description  = "IsCodeExtensions for my project"
   s.homepage     = 'https://www.forfur.com'
